@@ -10,7 +10,6 @@
 function playAudio(aud, start, end) {
     // set the current playback time to the start time
     aud.currentTime = start;
-
     // play the audio file
     aud.play();
 
