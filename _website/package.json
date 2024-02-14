@@ -5,5 +5,8 @@
     "main": "index.html",
     "repository": "https://github.com/ultrasaurus/text-based-audio",
     "author": "",
-    "license": ""
+    "license": "",
+    "dependencies": {
+        "parcel": "^2.11.0"
+    }
 }
