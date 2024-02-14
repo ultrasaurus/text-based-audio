@@ -2,7 +2,6 @@
     "name": "text-based-audio-prototype",
     "version": "0.0.1",
     "description": "an experiment in controlling audio by interacting with text",
-    "main": "index.html",
     "repository": "https://github.com/ultrasaurus/text-based-audio",
     "author": "",
     "license": "",
