@@ -11,7 +11,7 @@ cd _website
 yarn parcel index.html
 ```
 
-in brower, go to: http://127.0.0.1:8000/fox/fox-epistle.html
+in brower, go to: http://localhost:1234
 
 
 
