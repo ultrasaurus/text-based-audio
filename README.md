@@ -1,8 +1,14 @@
 # text-based-audio
 
+dev setup
+```
+yarn install
+```
+
+running the app (with dev serve that rebuilds automatically when files change)
 ```
 cd _website
-ws
+yarn parcel index.html
 ```
 
 in brower, go to: http://127.0.0.1:8000/fox/fox-epistle.html
