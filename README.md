@@ -11,7 +11,7 @@ cd _website
 yarn parcel index.html
 ```
 
-in brower, go to: http://localhost:1234
+in browser, go to: http://localhost:1234
 
 
 
