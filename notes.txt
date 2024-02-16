@@ -1,0 +1,24 @@
+highlight text:
+https://stackoverflow.com/questions/8644428/how-to-highlight-text-using-javascript
+
+span element
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_span
+
+
+----
+
+var target = document.getElementById('target');
+for node in target.childNodes {
+    if (node.nodeType == Node.TEXT_NODE )
+}
+
+
+document.getElementById('target').innerText
+
+
+p1 = document.getElementById('target').childNodes[1]
+
+
+css
+  -webkit-user-select: all;
+  user-select: all;
