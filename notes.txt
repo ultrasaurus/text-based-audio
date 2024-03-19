@@ -19,6 +19,19 @@ document.getElementById('target').innerText
 p1 = document.getElementById('target').childNodes[1]
 
 
-css
+css for selectable text
   -webkit-user-select: all;
   user-select: all;
+
+
+  Not tested code - // Select the element
+var element = document.querySelector('selector'); // Replace 'selector' with the actual selector for your text element
+
+// Get the bounding rectangle
+var rect = element.getBoundingClientRect();
+
+// Calculate global (absolute) coordinates
+var globalX = rect.left + window.scrollX;
+var globalY = rect.top + window.scrollY;
+
+console.log('Global X:', globalX, 'Global Y:', globalY);
