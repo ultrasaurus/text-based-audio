@@ -13,6 +13,11 @@ yarn parcel index.html
 
 in browser, go to: http://localhost:1234
 
+## TODO
+- register handleTextSelection for selection event?
+- progress bar (currently static)
+
+
 ## Goal 
 
 Using source text, audio and timestamp.json, create HTML user experience
